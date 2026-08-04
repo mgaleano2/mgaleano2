@@ -20,7 +20,7 @@
 
 Machine Learning · Sports Analytics · Blockchain
 
-⚽ **Love football!** — [Mi perfil en Transfermarkt](https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486)
+⚽ **Ex jugador de fútbol y entrenador** — [Mi perfil en Transfermarkt](https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486)
 
 ## 📂 Proyectos
 

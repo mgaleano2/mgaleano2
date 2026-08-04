@@ -20,7 +20,7 @@
 
 Machine Learning · Sports Analytics · Blockchain
 
-⚽ **Ex jugador de fútbol y entrenador** — [Mi perfil en Transfermarkt](https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486)
+⚽ **Ex jugador de fútbol y entrenador** con licencia UEFA Pro y carrera internacional por Argentina, Ecuador, EE. UU., China y Finlandia. Actualmente director técnico en China. — [Mi perfil en Transfermarkt](https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486)
 
 ## 📂 Proyectos
 

@@ -1,31 +1,29 @@
-<h1 align="center">Mariano Galeano 👋</h1>
+<h1 align="center">Mariano Galeano</h1>
 
 <p align="center">
-  <b>Data Engineer · Data Scientist</b> — Python · SQL · Cloud
+  <b>Entrenador de Futbol</b> — Python · SQL · Streamlit
 </p>
 
 ---
 
-**Certificado IBM Data Analyst — Career Preparation** 🎓
+**Certificado IBM Data Analyst — Career Preparation**
 
-## 🛠️ Skills
+**Ex jugador de fútbol y entrenador** con licencia UEFA Pro y carrera internacional por Argentina, Ecuador, EE. UU., China y Finlandia. Actualmente trabajando en China. — [Mi perfil en Transfermarkt](https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486)
 
-**Lenguajes:** Python · C
-**Bases de datos:** SQL · MongoDB
+## Skills
+
+**Lenguajes:** Python
+**Bases de datos:** SQL
 **Cloud:** AWS · GCP
-**Visualización:** Dash (Plotly) · Google Data Studio · Tableau · Seaborn · Plotly
+**Visualización:** Dash (Plotly) · Tableau · Seaborn · Plotly
 **Otros:** QGIS · Git
 
-## 🎯 Intereses
+## Intereses
 
 Machine Learning · Sports Analytics · Blockchain
 
-⚽ **Ex jugador de fútbol y entrenador** con licencia UEFA Pro y carrera internacional por Argentina, Ecuador, EE. UU., China y Finlandia. Actualmente director técnico en China. — [Mi perfil en Transfermarkt](https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486)
-
-## 📂 Proyectos
+## Proyectos
 
 *Próximamente...*
 
 ---
-
-[![GitHub](https://img.shields.io/badge/GitHub-mgaleano2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgaleano2)

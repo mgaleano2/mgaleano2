@@ -22,8 +22,5 @@
 
 Machine Learning · Sports Analytics · Blockchain
 
-## Proyectos
-
-*Próximamente...*
 
 ---

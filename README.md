@@ -8,10 +8,9 @@
 
 **Entrenador** con licencia ATFA Pro y carrera internacional por Argentina, Ecuador, EE. UU., China y Finlandia. Actualmente trabajando en China. — [Mi perfil en Transfermarkt](https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486)
 
-**Certificado IBM Data Analyst — Career Preparation**
-
 ## Skills
 
+**Certificado IBM Data Analyst — Career Preparation**
 **Lenguajes:** Python
 **Bases de datos:** SQL
 **Cloud:** AWS · GCP
